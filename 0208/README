@@ -1,0 +1,3 @@
+目前問題:
+Encoder 數值不知道為什麼還不能用，學長建議用Phoenix Tuner來檢查Encoder是否可以正常輸出數值，以免是程式寫錯導致Encoder數值無法顯示。
+機器人在setpoint=0的時候會持續往前暴衝，應該和Encoder數值有關係。
